@@ -1,0 +1,10 @@
+# simple-mediainfo-gui
+:author: Duncan Lock
+
+- https://mediaarea.net/en/MediaInfo
+ The GUi for this isn't great, so maybe Zenity can help:
+ 
+- https://help.gnome.org/users/zenity/3.32/list.html.en
+- http://smokey01.com/yad/
+- https://www.mankier.com/1/yad#Options
+- Standard Gnome icons names: https://developer.gnome.org/icon-naming-spec/#names

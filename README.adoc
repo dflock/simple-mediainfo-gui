@@ -1,0 +1,34 @@
+# simple-mediainfo-gui
+:author: Duncan Lock
+
+A simple GUI for MediaInfo. 
+
+## Requirements
+
+You need `yad`  installed. See: https://sourceforge.net/projects/yad-dialog/
+
+For Debian/Ubuntu, you can do:
+
+```shell
+$ sudo apt install yad
+```
+
+## Installation
+
+```shell
+$ sudo cp simple-mediainfo-gui.sh /usr/bin/simple-mediainfo-gui
+```
+
+## Usage
+
+### Swap with specific workspace, by ID
+
+You can swap the current workspace with any other by passing in the target workspace id:
+
+```shell
+$ simple-mediainfo-gui <FILE>
+```
+
+### Author
+
+Duncan Lock <duncan.lock@gmail.com>

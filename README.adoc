@@ -5,12 +5,16 @@ A simple GUI for https://mediaarea.net/en/MediaInfo[MediaInfo].
 
 ## Requirements
 
-You need `yad`  installed. See: https://sourceforge.net/projects/yad-dialog/
+You need the following installed:
+
+- `yad`: https://sourceforge.net/projects/yad-dialog/
+- `mediainfo`: https://mediaarea.net/en/Repos
 
 For Debian/Ubuntu, you can do:
 
 ```shell
 $ sudo apt install yad
+$ wget https://mediaarea.net/repo/deb/repo-mediaarea_1.0-13_all.deb && sudo apt install ./repo-mediaarea_1.0-13_all.deb && sudo apt update
 ```
 
 ## Installation

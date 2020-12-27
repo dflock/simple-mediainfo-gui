@@ -25,10 +25,6 @@ $ sudo cp simple-mediainfo-gui.sh /usr/bin/simple-mediainfo-gui
 
 ## Usage
 
-### Swap with specific workspace, by ID
-
-You can swap the current workspace with any other by passing in the target workspace id:
-
 ```shell
 $ simple-mediainfo-gui <FILE>
 ```

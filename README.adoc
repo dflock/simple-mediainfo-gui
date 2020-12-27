@@ -1,7 +1,7 @@
 # simple-mediainfo-gui
 :author: Duncan Lock
 
-A simple GUI for MediaInfo. 
+A simple GUI for https://mediaarea.net/en/MediaInfo[MediaInfo]. 
 
 ## Requirements
 
